@@ -1,0 +1,13 @@
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\bin\Debug\netcoreapp3.1\real-i8080-runner.exe
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\bin\Debug\netcoreapp3.1\real-i8080-runner.deps.json
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\bin\Debug\netcoreapp3.1\real-i8080-runner.runtimeconfig.json
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\bin\Debug\netcoreapp3.1\real-i8080-runner.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\bin\Debug\netcoreapp3.1\real-i8080-runner.dll
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\bin\Debug\netcoreapp3.1\real-i8080-runner.pdb
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.csprojAssemblyReference.cache
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.AssemblyInfo.cs
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.dll
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.pdb
+C:\Users\Janek\source\repos\real-i8080-runner\real-i8080-runner\obj\Debug\netcoreapp3.1\real-i8080-runner.genruntimeconfig.cache
